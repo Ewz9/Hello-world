@@ -1,0 +1,3 @@
+always press 'i' when open files with "vi"
+quit with "esc then press :wq"
+
